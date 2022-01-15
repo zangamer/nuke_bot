@@ -27,4 +27,4 @@ Kako nukat server?
     7. Bot začne nukat in spamat, če pa to želiš ustaviti pa napišeš #stop in bot se ustavi!
     
 
-Upam, da boš užival in ti je bot všeč. Bota ne smeš objavljat dalje, saj je licenciran, kar lahko tudi vidiš v datoteki LICENSE. Če vidimo da ima bota kdo drugi boste kaznovani.
+Upam, da boš užival in ti je bot všeč. Bota ne smeš objavljat dalje, saj je licenciran.
