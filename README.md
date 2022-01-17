@@ -1,30 +1,30 @@
- Pozdravljen Dior Bojči!
+Hello!
  
- Preden nukaš katerikoli server se prvo prepričaj, da si vse spodaj prebral.
+Before you nuke any server, first make sure you read everything below.
 
- Kako moraš sploh začeti?
+How do you even have to start?
  
-    1. Greš na ta link in si preneseš najnovejši python: https://www.python.org/downloads/
+    1. Go to this link and download the latest python: https://www.python.org/downloads/
     
-    2. Če ne veš kako si instalirat python si poglej ta video: https://www.youtube.com/watch?v=O3V0fsXTM6Q
+    2. If you don't know how to install python watch this video: https://www.youtube.com/watch?v=O3V0fsXTM6Q
     
-    3. Ko si instaliral python je to to, preberi si več spodaj
+    3. Once you’ve installed python this is it, read more below for start your first nuke with this bot.
 
-Kako nukat server?
+How to even nuke a server?
 
-    1. Tvoj bot je že pripravljen na nuke
+    1. Your bot is ready for nukes
     
-    2. Ti moraš samo 2x kliknit na datoteko, ki se imenuje: bojči_bot
+    2. You just need to open a file called: nuke_bot
     
-    3. Ko se ti program zažene se ti izpiše nuke bot na veliko
+    3. When your program starts, you will see a nuke bot sign
     
-    4. Pod napisom je tudi invite link za nuke bota
+    4. Below the caption is also an invite link for the nuke bot
     
-    5. Ko invitaš bota mora biti bot online, program pa mora biti odprt
+    5. When you invite a bot, the bot must be online and the program must be open
     
-    6. Ko se prepričaš da vse deluje, v kanal pošlješ #play
+    6. When you make sure everything works, send #play to the channel
     
-    7. Bot začne nukat in spamat, če pa to želiš ustaviti pa napišeš #stop in bot se ustavi!
+    7. The bot starts deleting and spamming, but if you want to stop it, write #stop and the bot stops!
     
 
-Upam, da boš užival in ti je bot všeč. Bota ne smeš objavljat dalje, saj je ta program licenciran.
+It is not my fault or any developer's fault for any threats or reports. The program is protected and licensed. Use the program at your own risk and do not publish it again.
