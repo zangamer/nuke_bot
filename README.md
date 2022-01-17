@@ -27,4 +27,4 @@ How to even nuke a server?
     7. The bot starts deleting and spamming, but if you want to stop it, write #stop and the bot stops!
     
 
-It is not my fault or any developer's fault for any threats or reports. The program is protected and licensed. Use the program at your own risk and do not publish it again.
+It is not my fault or any developer's fault for any threats or reports. The program is protected and licensed. Use the program at your own risk and do not publish it again. If the program is found by one of our developers, it will be followed by an application, as it is licensed.
